@@ -38,10 +38,6 @@ main {
   background-color: hsl(0deg, 0%, 60%);
 }
 
-main section {
-  max-width: 900px;
-}
-
 main section .card {
   background-color: white;
   padding-top: 8px;
